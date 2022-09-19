@@ -9,7 +9,7 @@
     flex-direction: row;
   }
   .nav-bar--content a {
-    /* width: auto; */
+    width: auto;
     padding: 24px 16px !important;
     border-left: 1px solid var(--border-grey);
     border-right: 1px solid var(--border-grey);
