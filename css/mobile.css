@@ -90,9 +90,9 @@ a[href^="tel"] {
   align-items: start;
   flex-direction: column;
 }
-/* .nav-bar--content a {
+.nav-bar--content a {
   width: 130px;
-} */
+}
 
 /* Style Nav-bar Text */
 .nav-bar--content a:link,
